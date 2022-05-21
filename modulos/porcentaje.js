@@ -1,5 +1,5 @@
 function porcentaje(a, b) {
-    return (a *100) / b
+    return (a * b) / 100
 }
 
 module.exports = porcentaje;
